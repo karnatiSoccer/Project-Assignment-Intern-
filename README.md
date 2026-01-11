@@ -94,6 +94,7 @@ Axios
 React Router
 
 📂 Project Structure
+```
 root/
 ├── backend/
 │   ├── src/
@@ -115,6 +116,7 @@ root/
 │   └── .gitignore
 │
 └── README.md
+```
 
 📡 API Endpoints
 Authentication
